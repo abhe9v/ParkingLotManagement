@@ -1,0 +1,7 @@
+Vehicle, Interval, Fee
+Motorcycle, 0-4, 30
+Motorcycle, 4-12, 60
+Motorcycle, 12-Infinity, 100
+Car/SUV, 0-4, 60
+Car/SUV, 4-12, 120
+Car/SUV, 12-Infinity, 200

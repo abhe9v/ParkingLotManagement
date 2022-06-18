@@ -1,0 +1,8 @@
+Vehicle, Interval, Fee
+Motorcycle, 0-1, 0
+Motorcycle, 1-8, 40
+Motorcycle, 8-24, 60
+Motorcycle, Each day, 80
+Car/SUV, 0-12, 60
+Car/SUV, 12-24, 80
+Car/SUV, Each day, 100
